@@ -1,4 +1,6 @@
 .DS_Store
+CapableRobot_USBHub_Driver
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
